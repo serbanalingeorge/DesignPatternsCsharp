@@ -1,0 +1,2 @@
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\TheFacadePattern\TheFacadePattern\obj\Debug\TheFacadePattern.csprojAssemblyReference.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\TheFacadePattern\TheFacadePattern\obj\Debug\TheFacadePattern.csproj.CoreCompileInputs.cache

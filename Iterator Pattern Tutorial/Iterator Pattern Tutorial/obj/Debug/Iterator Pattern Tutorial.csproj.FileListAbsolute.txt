@@ -1,0 +1,7 @@
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\Iterator Pattern Tutorial\Iterator Pattern Tutorial\obj\Debug\Iterator Pattern Tutorial.csprojAssemblyReference.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\Iterator Pattern Tutorial\Iterator Pattern Tutorial\obj\Debug\Iterator Pattern Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\Iterator Pattern Tutorial\Iterator Pattern Tutorial\bin\Debug\Iterator Pattern Tutorial.exe.config
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\Iterator Pattern Tutorial\Iterator Pattern Tutorial\bin\Debug\Iterator Pattern Tutorial.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\Iterator Pattern Tutorial\Iterator Pattern Tutorial\bin\Debug\Iterator Pattern Tutorial.pdb
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\Iterator Pattern Tutorial\Iterator Pattern Tutorial\obj\Debug\Iterator Pattern Tutorial.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\Iterator Pattern Tutorial\Iterator Pattern Tutorial\obj\Debug\Iterator Pattern Tutorial.pdb

@@ -1,0 +1,6 @@
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

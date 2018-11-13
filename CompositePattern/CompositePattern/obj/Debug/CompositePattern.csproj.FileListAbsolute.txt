@@ -1,0 +1,7 @@
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\CompositePattern\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csprojAssemblyReference.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\CompositePattern\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\CompositePattern\CompositePattern\obj\Debug\CompositePattern.pdb

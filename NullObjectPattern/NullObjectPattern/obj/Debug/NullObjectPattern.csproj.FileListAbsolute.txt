@@ -1,0 +1,7 @@
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\NullObjectPattern\NullObjectPattern\bin\Debug\NullObjectPattern.exe.config
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\NullObjectPattern\NullObjectPattern\bin\Debug\NullObjectPattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\NullObjectPattern\NullObjectPattern\bin\Debug\NullObjectPattern.pdb
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\NullObjectPattern\NullObjectPattern\obj\Debug\NullObjectPattern.csprojAssemblyReference.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\NullObjectPattern\NullObjectPattern\obj\Debug\NullObjectPattern.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\NullObjectPattern\NullObjectPattern\obj\Debug\NullObjectPattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\NullObjectPattern\NullObjectPattern\obj\Debug\NullObjectPattern.pdb

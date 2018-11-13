@@ -1,0 +1,7 @@
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\The Observer Pattern\The Observer Pattern\bin\Debug\The Observer Pattern.exe.config
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\The Observer Pattern\The Observer Pattern\bin\Debug\The Observer Pattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\The Observer Pattern\The Observer Pattern\bin\Debug\The Observer Pattern.pdb
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\The Observer Pattern\The Observer Pattern\obj\Debug\The Observer Pattern.csprojAssemblyReference.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\The Observer Pattern\The Observer Pattern\obj\Debug\The Observer Pattern.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\The Observer Pattern\The Observer Pattern\obj\Debug\The Observer Pattern.exe
+C:\Users\george_serban\Projects\DesignPatternsMichael(Youtube)\The Observer Pattern\The Observer Pattern\obj\Debug\The Observer Pattern.pdb
